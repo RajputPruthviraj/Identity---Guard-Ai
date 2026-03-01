@@ -1,0 +1,38 @@
+# Python virtual environment
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
+
+# Node.js
+node_modules/
+.next/
+.npm/
+
+# Environment variables
+.env.local
+.env.*.local
+.env
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+
+# Temp / uploads
+*.wav
+*.jpg
+*.jpeg
+*.png
+source_*.jpg
+found_*.jpg
+target_voice_*.wav
